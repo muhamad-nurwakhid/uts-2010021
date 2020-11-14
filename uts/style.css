@@ -1,0 +1,22 @@
+.table1 {
+    font-family: sans-serif;
+    color: floralwhite;
+    border-collapse: collapse;
+    width: 51;
+    border: 1px solid #f2f5f7;
+}
+.table1 tr th{
+    background: #35a9db;
+    color: lightgray ;
+    font-weight: normal;
+}
+.table1,tr, td {
+    background-color: dimgrey;
+}
+.table1, th, td{
+    padding: 8px 20px;
+}
+.gambar {
+    height: 200px;
+    width: 230px;
+}
